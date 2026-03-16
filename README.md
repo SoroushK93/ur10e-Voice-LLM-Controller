@@ -141,14 +141,3 @@ Disclaimer
 
 This software is provided for research and educational purposes.
 Use at your own risk when operating robotic hardware.
-
-
----
-
-### What you should do now
-1. Create the repo  
-2. Select **MIT License**  
-3. Turn **Add README → ON**  
-4. Paste this content
-
----
