@@ -152,5 +152,3 @@ Use at your own risk when operating robotic hardware.
 4. Paste this content
 
 ---
-
-If you'd like, I can also give you a **much stronger academic version of the README** (the kind used in top robotics labs like Stanford / Berkeley / CMU).
